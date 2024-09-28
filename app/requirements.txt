@@ -1,8 +1,0 @@
-langchain
-langchain-openai
-pandas
-PyPDF4
-streamlit
-chromadb
-pydantic
-requests
